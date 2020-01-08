@@ -1,8 +1,7 @@
 # README
 
-The code is a full implementation of `SPNet` in our paper `Abstractive Dialog Summarization with Semantic Scaffolds`. The paper is now under review in `ICLR20`.
+The code is a full implementation of `SPNet` in my paper `Abstractive Dialog Summarization with Semantic Scaffolds`, which is my first trial in independent research. Although the result is not satisfying, I still learn a lot from the experience.
 
-Note that the version is still under maintainance. The final version will be released after being accepted.
 
 ### Environment
 
@@ -34,17 +33,4 @@ We have two automatic evaluation metrics: ROUGE and CIC. To separate the inferen
 
 CIC evaluation method is shown in `./evaluate.py`.
 
-
-
-
-
-
-
-
-
-
-
-
-
- 
 
