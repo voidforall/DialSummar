@@ -1,6 +1,6 @@
 # README
 
-The code is a full implementation of `SPNet` in my paper `Abstractive Dialog Summarization with Semantic Scaffolds`, which is my first trial in independent research. Although the result is not satisfying, I still learn a lot from the experience.
+The code is a full implementation of `SPNet` in my paper `Abstractive Dialog Summarization with Semantic Scaffolds`(https://arxiv.org/abs/1910.00825), which is my first trial in independent research.
 
 
 ### Environment
